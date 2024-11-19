@@ -1,4 +1,6 @@
-![hpp logo](https://github.com/user-attachments/assets/5f892a53-a639-4777-99fa-9260ec7561f6) ![swift](https://github.com/user-attachments/assets/2ee9f304-05db-4012-a59b-494ab7ba7dee)
+![hpp_logo-removebg-preview](https://github.com/user-attachments/assets/a95066f3-3a49-45c6-a92b-5845db839bcf) ![swift-removebg-preview](https://github.com/user-attachments/assets/58de2c6a-5b08-4352-996d-4faf7b45b639)
+
+
 
 
 **Hpa Progress Plexus - Swift Edition** is an innovative project that blends the nostalgia of early web design with the power of modern development tools. This project is a revival of an old web concept, reimagined and rebuilt using a combination of classic web technologies like HTML, CSS, and JavaScript, along with the sleek user interface (UI) crafted in Swift.
